@@ -1,7 +1,7 @@
 # Raspberry-Pi-Project
 
-##author：frontier
-##email：ptbtboy@gmail.com
+## author：frontier
+## email：ptbtboy@gmail.com
 
 ### 闲暇时间做的一些小工程
 
